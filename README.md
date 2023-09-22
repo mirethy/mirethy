@@ -1,5 +1,5 @@
 # Hi there🦈:
-Ambitious, analytical graduate in Neuroeconomics with experience in research and development. I am a fast learner, quickly adapting to different situations with a can-do attitude. My main interests are in the applications of Deep Learning, Computer Vision and Reinforcement Learning in the cognitive neuroscience domain.<br>Fun fact: Competitive Brazilian Jiu-Jitsu fighter
+Ambitious, analytical graduate in Neuroeconomics with experience in research and development. I am a fast learner, quickly adapting to different situations with a can-do attitude. My main interests are in the applications of Deep Learning, Computer Vision and Reinforcement Learning in the cognitive neuroscience domain. Fun fact: Competitive Brazilian Jiu-Jitsu fighter
 
 
 ### 🌐 Socials:
