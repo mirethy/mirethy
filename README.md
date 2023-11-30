@@ -4,7 +4,7 @@ Hi, I'm a fresh graduate in Neuroeconomics with experience in research and devel
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,matlab,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=ai,pytorch,tensorflow)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=py,matlab,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=ai,pytorch,tensorflow)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev) 
 <br/>
 
 ### Socials
