@@ -1,5 +1,5 @@
 # Hi, my name is Máté Réthy 🌪️
-Hi, I'm a fresh graduate in Neuroeconomics with experience in research and development. I am a fast learner, quickly adapting to any situation with a can-do attitude. My main interests are in the applications of Deep Learning, Computer Vision and Reinforcement Learning in the domains of Neuroscience and Web development. Fun fact: Competitive Brazilian Jiu-Jitsu fighter
+Hi, I'm a fresh graduate in Neuroeconomics with experience in research programming with Python and MATLAB. I am a fast learner, quickly adapting to any situation with a can-do attitude and excited to contribute to science. My main interests are in the applications of Deep Learning, Computer Vision and Reinforcement Learning in the domains of Neuroscience and Pharmaceutical Research. Fun fact: Competitive Brazilian Jiu-Jitsu fighter
 
 
 ### Skills
