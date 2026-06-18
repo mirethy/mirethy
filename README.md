@@ -1,5 +1,5 @@
 # Hi, my name is Máté 🌪️
-Hi, I'm a graduate in Neuroeconomics and currently studying Medical Informatics with experience in research programming with Python, R and MATLAB. I am a fast learner, quickly adapting to any situation with a can-do attitude and excited to contribute to science. My main interests are in the applications of Deep Learning, Computer Vision and Reinforcement Learning in the domains of Neuroscience and Pharmaceutical Research. Fun fact: Competitive Brazilian Jiu-Jitsu fighter
+Hi, I'm a graduate in Neuroeconomics and currently studying Medical Informatics with experience in research programming with Python, R and MATLAB. I am a fast learner, quickly adapting to any situation with a can-do attitude and excited to contribute to science. My main interests are in the applications of Deep Learning, Computer Vision and Reinforcement Learning in the domains of Neuroscience and Pharmaceutical Research. Fun fact: Competitive Brazilian Jiu-Jitsu fighter and triathlete
 
 
 ### Skills
